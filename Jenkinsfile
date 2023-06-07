@@ -3,4 +3,3 @@
 env.compnent = "frontend"
 env.app_lang = "nginx"
 
-ci()
